@@ -25,10 +25,10 @@ During the loop append the values to l1 and l1 vlues to l2 then make l1 as empty
 ### Step 7:
 Declare a arr1 to l2 by converting it to an array.
 
-###Step 8:
+### Step 8:
 Declare a varible inverse using numpy linalg and inverse fuctions find inverse of l2.
 
-###Step 9:
+### Step 9:
 Print the values of the inverse.
 
 
